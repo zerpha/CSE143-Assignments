@@ -1,8 +1,4 @@
-Henry Nguyen
-Natural Language Processing Ass2
-hnguye87
-
-I worked on this assignment alone.
+Text Classifier on sentiment analysis build using a Keras model. Checks if texts are negative or positive.
 
 FILES:
   LangProcAss2Part1and2 : this python file was downloaded from google colab 
